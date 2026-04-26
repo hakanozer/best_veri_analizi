@@ -1,5 +1,12 @@
 # Proje: Veri Analizi (best_veri_analizi)
 
+```bash
+Tek dosya Çalıştırma: python src/utils.py
+
+Jupyter ile çalştırma (Hızlı - Öğrenme): jupyter notebook
+# Tarayıcı otomatik açılır: http://localhost:8888
+```
+
 Bu proje veri analizi çalışmaları için bir başlangıç şablonudur.
 
 Proje dizin yapısı:
