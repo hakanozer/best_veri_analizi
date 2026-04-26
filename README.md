@@ -1,16 +1,23 @@
 # Proje: Veri Analizi (best_veri_analizi)
 
 ```bash
+Github Link: https://github.com/hakanozer/best_veri_analizi
+
+Ortam Oluşturma: python -m venv venv
+Aktif Etme (Mac): source venv/bin/activate
+Aktif Etme (Windows): venv\Scripts\activate
+Proje kütüphanelerini kurma: pip install -r requirements.txt
+
 Tek dosya Çalıştırma: python src/utils.py
 
-Jupyter ile çalştırma (Hızlı - Öğrenme): jupyter notebook
+Jupyter ile çalştırma (Hızlı - Öğrenme):jupyter notebook
 # Tarayıcı otomatik açılır: http://localhost:8888
 ```
 
 Bu proje veri analizi çalışmaları için bir başlangıç şablonudur.
 
 Proje dizin yapısı:
-
+```
 ├── venv/                  # Sanal ortam (git'e ekleme!)
 ├── data/
 │   ├── raw/               # Ham veriler (değiştirme)
@@ -22,6 +29,7 @@ Proje dizin yapısı:
 ├── outputs/               # Grafikler ve raporlar
 ├── requirements.txt       # Bağımlılıklar
 └── README.md
+```
 
 Hızlı başlangıç:
 
